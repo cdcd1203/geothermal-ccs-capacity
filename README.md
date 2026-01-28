@@ -1,10 +1,14 @@
 # Geothermal Heat & CO₂ Storage Capacity Assessment
-Geothermal heat and CO2 storage capacity assessment using Python
-# Geothermal Heat Storage & CO₂ Capacity Assessment
+
+Geothermal heat and CO₂ storage capacity assessment using Python.
+
+---
+
 ## Code Documentation
 - 📄 [CODEX – Code Walkthrough](./CODEX.md)
+
 ## Overview
-This repository contains a **Python-based engineering model** for estimating:
+This repository contains a Python-based engineering model for estimating:
 
 - **Geothermal heat storage potential**
 - **Geological CO₂ storage capacity**
